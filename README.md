@@ -1,4 +1,5 @@
 ## StyleSynth: Flipkart Grid 5.0 Hackathon project
+
 1. Developed an innovative application for the Flipkart Grid 5.0 Hackathon, focused on elevating user experience through 
 the integration of 3D clothing models.
 
